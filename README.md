@@ -101,7 +101,7 @@ GitHub Repo -: https://github.com/vinayakz/Deploying-Wordpress-on-AWS-.git
 		aws_region        = "ap-south-1"
 		db_instance_class = "db.t2.micro"
 		dbname		        = "wordpressdb"
-    deidentifier      = "wordpressdb"
+    		deidentifier      = "wordpressdb"
 		dbuser		        = "username"
 		dbpassword	      = "username123"
 		key_name          = "id_rsa"
